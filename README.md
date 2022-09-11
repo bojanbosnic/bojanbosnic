@@ -1,7 +1,15 @@
  👋 Hi, I'm Bojan Bosnic 
  
-   I want to become softwer web developer and I currently learning React. 
-
+   🚀 I'm softwer developer who works with Next.js and React.
+   
+   Stack:
+   
+   - JavaScript
+   - React.js
+   - Next.js
+   - Tailwind
+   
+   
  📫 How to reach me ?
  
-- bojan.bosnicc99@gmail.com
+  - bojan.bosnicc99@gmail.com
