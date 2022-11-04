@@ -1,6 +1,6 @@
  👋 Hi, I'm Bojan Bosnic 
  
-    🚀 I'm softwer developer who works with Next.js and React.
+    🚀 I'm a softwer developer who works with Next.js and React.
    
    Stack:
    
