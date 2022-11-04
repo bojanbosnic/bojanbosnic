@@ -8,6 +8,9 @@
    - React.js
    - Next.js
    - Tailwind
+
+    Demo of my app:
+    https://sezonac-web.vercel.app/
    
    
    
