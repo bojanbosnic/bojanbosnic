@@ -18,3 +18,4 @@
  📫 How to reach me ?
  
   - bojan.bosnicc99@gmail.com
+  - https://www.linkedin.com/in/bojan-bosnic1204/ 
