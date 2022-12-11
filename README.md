@@ -9,11 +9,6 @@
    - Next.js
    - Tailwind
 
-    Demo of my app:
-   
-    https://sezonac-web.vercel.app/
-   
-   
    
  📫 How to reach me ?
  
