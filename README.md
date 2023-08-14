@@ -8,6 +8,7 @@
    - React.js
    - Next.js
    - Tailwind
+   - React Native
 
    
  📫 How to reach me ?
